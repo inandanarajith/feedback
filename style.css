@@ -1,0 +1,35 @@
+div{
+    border: 2px solid rgb(79, 59, 98);
+    width: 500px;
+    height: 300px;
+    border-radius: 3px;
+    background-color: rgb(114, 133, 77);
+}
+.box{
+    border:2px solid rgb(27, 32, 136);
+    width: 250px;
+    height: 20px;
+    align-items: center;
+    background-color: rgb(209, 190, 206);
+}
+.container{
+    border: 2px solid rgb(10, 74, 44);
+    width: 400px;
+    height: 200px;
+    background-color: rgb(93, 200, 93);
+    border-radius: 5px;
+}
+.container1{
+    border:2px solid rgb(158, 187, 230);
+    width: 250px;
+    height: 20px;
+    align-items: center;
+    border-radius: 10px;
+    background-color: skyblue;
+}
+.container2{  
+    border: 2px solid rgb(205, 176, 27);
+    width: 330px;
+    height: 100px;
+    background-color: rgb(227, 227, 105);
+}
